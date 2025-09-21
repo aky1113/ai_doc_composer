@@ -1,0 +1,33 @@
+# AI Documentary Composer - Docker Compose Configuration
+
+services:
+  # Streamlit UI Service
+  ui:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      # Default to host's Ollama if available, fallback to dockerized Ollama
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+    volumes:
+      - ./projects:/app/projects
+      - ./voices:/app/voices
+    command: ["ui"]
+    # No depends_on - Ollama is optional
+
+  # Optional Ollama Service (Local LLM)
+  # To use: docker-compose --profile with-ollama up
+  ollama:
+    image: ollama/ollama:latest
+    profiles: ["with-ollama"]
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - OLLAMA_ORIGINS=*
+    command: ["serve"]
+
+volumes:
+  ollama_data:
