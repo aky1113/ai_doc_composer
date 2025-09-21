@@ -42,7 +42,7 @@ cache/
 # VibeVoice outputs and test files
 test_outputs/
 test_texts/
-*.wav
+#*.wav
 src/ai_doc_composer/experimental/vibevoice/experiments/*/outputs/
 src/ai_doc_composer/experimental/vibevoice/experiments/*/generation_log.json
 src/ai_doc_composer/experimental/vibevoice/experiments/*/config.json
