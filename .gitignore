@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Poetry virtualenvs
+.env
+.venv
+
+# Distribution / packaging
+.build/
+dist/
+*.egg-info/
+
+# Logs & databases
+*.log
+
+# VSCode & IDEs
+.vscode/
+.idea/
+
+# Local data artefacts
+# /projects/*/output/
+# /projects/*/json/
+# /projects/*/input_preview/
+# /projects/*/input/
+/projects
+
+# Video files (large assets)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Model caches
+~/.cache/
+
+# MacOS junk
+.DS_Store
+cache/
+
+# VibeVoice outputs and test files
+test_outputs/
+test_texts/
+*.wav
+src/ai_doc_composer/experimental/vibevoice/experiments/*/outputs/
+src/ai_doc_composer/experimental/vibevoice/experiments/*/generation_log.json
+src/ai_doc_composer/experimental/vibevoice/experiments/*/config.json
+external/vibevoice/demo/outputs/
+external/vibevoice/*.wav
+scripts/archive_vibevoice/
+docs/
+scripts/sync_projects.sh
+overview.md
