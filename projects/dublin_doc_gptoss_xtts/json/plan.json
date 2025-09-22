@@ -1,0 +1,32 @@
+{
+  "project": "dublin_doc_gptoss_xtts",
+  "style": "documentary",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T10:16:11.094612Z",
+  "ordered_clips": [
+    "IMG_0031",
+    "IMG_9957",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_9963",
+    "IMG_9971"
+  ],
+  "script": [
+    "Dublin's cobblestone lanes cradle Hard Rock Cafe, opened 1990, where 1.2\u202fmillion residents stroll beneath neon lights.",
+    "Zooming past historic brick facades, the bus glides through caf\u00e9s, a boutique hotel, and a bustling school. Pedestrians weave between street vendors, their laughter echoing off limestone walls that have housed merchants since the 1700s. Nearby, a restaurant serves Irish stew while a corner bakery bakes fresh bread, and other buses weave through the traffic, reflecting the city\u2019s rhythm.",
+    "Continuing along the cobbled avenue, the bus skirts a row of H&M and Decathlon, their signage contrasting with oaks that line the street, while pedestrians pause to admire limestone fa\u00e7ades that have hosted commerce centuries.",
+    "Above the bustling street, a classic double\u2011decker glides past historic storefronts, its red paint echoing Dublin\u2019s heritage. Pedestrians weave between caf\u00e9s and boutique shops, many dating to the 18th century, while the bus\u2019s route spans 20 stops across the capital.",
+    "As the yellow DUKW glides past, its bright hull contrasts with the stone spires of Christ Church Cathedral, Ireland\u2019s oldest cathedral, founded in 1191.",
+    "Beyond the cathedral\u2019s shadow, Dublin\u2019s lively heart pulses."
+  ],
+  "speech_sec": [
+    7.925,
+    23.7,
+    13.9,
+    16.925,
+    9.775,
+    4.15
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

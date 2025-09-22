@@ -1,0 +1,40 @@
+{
+  "project": "dublin",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_9957",
+          "wav": "dublin/output/audio/IMG_9957_en.wav",
+          "duration": 13.634
+        },
+        {
+          "id": "IMG_9959",
+          "wav": "dublin/output/audio/IMG_9959_en.wav",
+          "duration": 11.361333333333333
+        },
+        {
+          "id": "IMG_9961",
+          "wav": "dublin/output/audio/IMG_9961_en.wav",
+          "duration": 19.843333333333334
+        },
+        {
+          "id": "IMG_0031",
+          "wav": "dublin/output/audio/IMG_0031_en.wav",
+          "duration": 7.051333333333333
+        },
+        {
+          "id": "IMG_9971",
+          "wav": "dublin/output/audio/IMG_9971_en.wav",
+          "duration": 23.608666666666668
+        },
+        {
+          "id": "IMG_9963",
+          "wav": "dublin/output/audio/IMG_9963_en.wav",
+          "duration": 11.542666666666667
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "project": "dublin_memories_voice2",
+  "style": "personal_memories",
+  "ordering_strategy": "exif",
+  "generated": "2025-09-18T17:19:30.523441Z",
+  "ordered_clips": [
+    "IMG_9957",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_9963",
+    "IMG_9971",
+    "IMG_0031"
+  ],
+  "script": [
+    "You know what I'll never forget about Dublin?  It was the sheer energy of the city, especially riding on that bus.  I remember looking out the window at all the brick buildings and bustling shops, feeling so alive.  Seeing the hotel, the school, and the little restaurants all mixed together was just fascinating.",
+    "The bus was packed with people, and everyone seemed to be heading somewhere important, which made me feel like I was part of the city's pulse.",
+    "The sheer vibrancy of the place really struck me, with all the people going about their day. It felt like a constant hum of activity, and I loved being right in the middle of it all.",
+    "That yellow bus was such a fun way to see everything, especially when we passed that incredible old cathedral. It looked so grand and imposing against the sky in Christ Church Cathedral.",
+    "And the pubs, oh my goodness, they were just incredible!  Stepping into that famous one felt like walking into a postcard, with all the decorations and the lively music spilling out.  Everyone seemed so happy and ready to have a good time, which was really infectious.",
+    "The cobblestone streets really gave the whole city such a unique and charming atmosphere."
+  ],
+  "speech_sec": [
+    21.85,
+    10.525,
+    14.3,
+    12.8,
+    18.45,
+    5.65
+  ],
+  "wpm": 160,
+  "allow_overflow": true
+}

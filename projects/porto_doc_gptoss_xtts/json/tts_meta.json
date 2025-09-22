@@ -1,0 +1,80 @@
+{
+  "project": "porto_doc_gptoss_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_9342",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9342_en.wav",
+          "duration": 9.888666666666667
+        },
+        {
+          "id": "IMG_9348",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9348_en.wav",
+          "duration": 18.049333333333333
+        },
+        {
+          "id": "IMG_9347",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9347_en.wav",
+          "duration": 16.524
+        },
+        {
+          "id": "IMG_9509",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9509_en.wav",
+          "duration": 20.418
+        },
+        {
+          "id": "IMG_9471",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9471_en.wav",
+          "duration": 14.017333333333333
+        },
+        {
+          "id": "IMG_9539",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9539_en.wav",
+          "duration": 6.080666666666667
+        },
+        {
+          "id": "IMG_9542",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9542_en.wav",
+          "duration": 18.422666666666668
+        },
+        {
+          "id": "IMG_9545",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9545_en.wav",
+          "duration": 16.758666666666667
+        },
+        {
+          "id": "IMG_9394",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9394_en.wav",
+          "duration": 10.998
+        },
+        {
+          "id": "IMG_9445",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9445_en.wav",
+          "duration": 12.022
+        },
+        {
+          "id": "IMG_9449",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9449_en.wav",
+          "duration": 12.395333333333333
+        },
+        {
+          "id": "IMG_9455",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9455_en.wav",
+          "duration": 14.102666666666666
+        },
+        {
+          "id": "IMG_9481",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9481_en.wav",
+          "duration": 25.623333333333335
+        },
+        {
+          "id": "IMG_9608",
+          "wav": "porto_doc_gptoss_xtts/output/audio/IMG_9608_en.wav",
+          "duration": 5.984666666666667
+        }
+      ]
+    }
+  ]
+}

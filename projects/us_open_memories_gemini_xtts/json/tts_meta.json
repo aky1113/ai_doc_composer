@@ -1,0 +1,35 @@
+{
+  "project": "us_open_memories_gemini_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_6991",
+          "wav": "us_open_memories_gemini_xtts/output/audio/IMG_6991_en.wav",
+          "duration": 3.382
+        },
+        {
+          "id": "IMG_5668",
+          "wav": "us_open_memories_gemini_xtts/output/audio/IMG_5668_en.wav",
+          "duration": 7.744666666666666
+        },
+        {
+          "id": "IMG_5709",
+          "wav": "us_open_memories_gemini_xtts/output/audio/IMG_5709_en.wav",
+          "duration": 10.582
+        },
+        {
+          "id": "IMG_5680",
+          "wav": "us_open_memories_gemini_xtts/output/audio/IMG_5680_en.wav",
+          "duration": 10.817333333333334
+        },
+        {
+          "id": "IMG_6965",
+          "wav": "us_open_memories_gemini_xtts/output/audio/IMG_6965_en.wav",
+          "duration": 9.75
+        }
+      ]
+    }
+  ]
+}

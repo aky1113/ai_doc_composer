@@ -1,0 +1,40 @@
+{
+  "project": "dublin_vlog_gptoss_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_9957",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_9957_en.wav",
+          "duration": 26.283333333333335
+        },
+        {
+          "id": "IMG_9959",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_9959_en.wav",
+          "duration": 3.99
+        },
+        {
+          "id": "IMG_9961",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_9961_en.wav",
+          "duration": 15.245333333333333
+        },
+        {
+          "id": "IMG_9963",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_9963_en.wav",
+          "duration": 12.481333333333334
+        },
+        {
+          "id": "IMG_0031",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_0031_en.wav",
+          "duration": 6.731333333333334
+        },
+        {
+          "id": "IMG_9971",
+          "wav": "dublin_vlog_gptoss_xtts/output/audio/IMG_9971_en.wav",
+          "duration": 4.640666666666666
+        }
+      ]
+    }
+  ]
+}

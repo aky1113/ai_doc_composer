@@ -1,0 +1,31 @@
+{
+  "project": "dublin",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-08-03T17:39:13.236217Z",
+  "ordered_clips": [
+    "IMG_9957",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_0031",
+    "IMG_9971",
+    "IMG_9963"
+  ],
+  "script": [
+    "Hey adventurers! Get ready to explore Ireland, a land where history whispers on every breeze. Our Dublin journey begins now, tracing paths forged since Viking settlements in 841 AD.",
+    "Dublin's vibrant streets pulse with life! We're diving into this city, where the iconic Ha'penny Bridge, built in 1816, once charged pedestrians a half-penny toll.",
+    "Dublin's energy is infectious! Around 1.4 million people call this bustling capital home. The iconic double-decker buses navigate streets steeped in stories. We're soaking in the atmosphere, where literary giants like James Joyce crafted masterpieces. Each corner reveals a piece of Ireland's captivating soul.",
+    "Here, at the Hard Rock Cafe, rock 'n' roll echoes through a city founded over 1100 years ago!",
+    "Alright, explorers, let's dive into Temple Bar! This legendary pub district, with roots dating back to the 1600s, is a cultural epicenter. The Temple Bar pub itself, a beacon of Irish hospitality, stands proudly. It is one of over 750 pubs in Dublin. Its vibrant red facade beckons, promising craic and unforgettable memories.",
+    "Look! A DUKW amphibious vehicle passes Christ Church Cathedral, a structure whose oldest parts date back to 1172, offering unique city tours."
+  ],
+  "speech_sec": [
+    10.875,
+    10.875,
+    18.375,
+    6.75,
+    20.25,
+    8.25
+  ],
+  "wpm": 160
+}

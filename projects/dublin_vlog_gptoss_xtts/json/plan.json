@@ -1,0 +1,32 @@
+{
+  "project": "dublin_vlog_gptoss_xtts",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T10:46:37.459876Z",
+  "ordered_clips": [
+    "IMG_9957",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_9963",
+    "IMG_0031",
+    "IMG_9971"
+  ],
+  "script": [
+    "Guys, I\u2019m literally cruising through Dublin\u2019s buzzing streets on a moving bus, and wow\u2014brick buildings, a cozy hotel, a lively restaurant, and a school all lining the road, while people and buses swirl around me\u2014this city\u2019s energy is off the charts, and I can\u2019t wait to share every heartbeat with you right now, as the sun paints the sky, and the Guinness pubs beckon.",
+    "Zooming past, I spot H&M\u2019s bright window displays.",
+    "Stepping onto the cobblestones, I feel the city pulse. A double\u2011decker bus glides by, its red paint gleaming. Crowds weave past, each face a story waiting to be shared. I capture every moment, excitement.",
+    "Suddenly, a bright yellow DUKW tour bus rolls by, its chrome gleaming. Nearby, the spires of Christ Church Cathedral loom, adding timeless charm.",
+    "I stepped onto cobblestones, feeling historic pulse beneath my feet, spotting the iconic Hard Rock sign.",
+    "Suddenly, street lights flicker, painting the red pub in warm glow."
+  ],
+  "speech_sec": [
+    26.65,
+    4.15,
+    14.725,
+    9.425,
+    6.4,
+    4.525
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

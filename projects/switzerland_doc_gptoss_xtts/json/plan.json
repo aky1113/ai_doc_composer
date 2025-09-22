@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_doc_gptoss_xtts",
+  "style": "documentary",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T08:39:51.138073Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "Bern's charming capital, nestles between a turquoise river and rolling hills, its old town bridged and surrounded by lush greenery.",
+    "Twilight descends upon Lucerne, where the Reuss River mirrors city lights and St. Leodegar church stands tall amidst the evening glow.",
+    "Gently sloping valleys unfold beneath towering mountain peaks, where a breathtaking waterfall plunges 300 meters into the verdant landscape below, surrounded by quaint villages and rustic houses.",
+    "Surrounded by lush greenery, a tranquil alpine lake mirrors the majestic Matterhorn.",
+    "Softly glowing city lights dance across the river's darkening waters.",
+    "Amidst Switzerland's rugged landscape, a red train traverses a snowy viaduct, disappearing into a tunnel, as winter's serene silence envelops the mountains."
+  ],
+  "speech_sec": [
+    8.275,
+    8.675,
+    10.525,
+    4.9,
+    4.525,
+    9.4
+  ],
+  "wpm": 160,
+  "allow_overflow": true
+}

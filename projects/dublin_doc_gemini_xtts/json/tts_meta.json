@@ -1,0 +1,40 @@
+{
+  "project": "dublin_doc_gemini_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_0031",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_0031_en.wav",
+          "duration": 7.147333333333333
+        },
+        {
+          "id": "IMG_9959",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_9959_en.wav",
+          "duration": 11.553333333333333
+        },
+        {
+          "id": "IMG_9961",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_9961_en.wav",
+          "duration": 12.108
+        },
+        {
+          "id": "IMG_9971",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_9971_en.wav",
+          "duration": 22.551333333333332
+        },
+        {
+          "id": "IMG_9963",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_9963_en.wav",
+          "duration": 12.662666666666667
+        },
+        {
+          "id": "IMG_9957",
+          "wav": "dublin_doc_gemini_xtts/output/audio/IMG_9957_en.wav",
+          "duration": 24.226
+        }
+      ]
+    }
+  ]
+}

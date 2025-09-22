@@ -1,0 +1,29 @@
+{
+  "project": "us_open_memories_gemini_xtts",
+  "style": "personal_memories",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-18T17:45:58.910584Z",
+  "ordered_clips": [
+    "IMG_6991",
+    "IMG_5668",
+    "IMG_5709",
+    "IMG_5680",
+    "IMG_6965"
+  ],
+  "script": [
+    "You know what I'll never forget about Ashe Stadium at the US Open?",
+    "The sheer energy of the crowd there was absolutely electrifying, making every single point feel so incredibly important.",
+    "The roar of the crowd when Elina Svitolina won that crucial point was just unbelievable, truly a moment that sent shivers down my spine in US Open.",
+    "The way she just pumped her fist after that winning shot, you could feel the whole stadium erupting with her. It was such a powerful display of pure joy and determination.",
+    "Seeing Stan Wawrinka on the big screen, a former champion, really brought back memories of his incredible 2016 US Open victory."
+  ],
+  "speech_sec": [
+    5.65,
+    7.15,
+    10.525,
+    12.425,
+    8.275
+  ],
+  "wpm": 160,
+  "allow_overflow": true
+}

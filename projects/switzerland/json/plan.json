@@ -1,0 +1,40 @@
+{
+  "project": "switzerland",
+  "style": "doc",
+  "generated": "2025-06-15T13:08:14.360503Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "Welcome to Switzerland, where the Aare River, carving through Bern since the 13th century, cradles a history etched in stone.",
+    "Now, the Rh\u00f4ne exits Lake Geneva, flowing through Geneva, a city where Calvinism took root in 1536, shaping its cultural landscape.",
+    "Lucerne's Chapel Bridge, built in 1333, stretches 204 meters across the Reuss, a testament to medieval engineering.",
+    "Now, above Lauterbrunnen, witness a valley sculpted by glaciers that retreated 10,000 years ago, leaving behind cliffs reaching nearly 300 meters. Here, 72 waterfalls plunge, including Staubbach Falls, which plummets almost 297 meters, a natural spectacle that inspired Goethe in 1779.",
+    "Here, at Matterhorn, glacial melt feeds lakes reflecting peaks soaring over 4,478 meters.",
+    "Now, in Switzerland, a train threads the viaduct, a testament to engineering prowess. The Gotthard Rail Tunnel, opened in 2016, stretches 57 kilometers, burrowing through the Alps. As the train disappears into the mountain, we reflect on a land where nature and innovation converge."
+  ],
+  "speech_sec": [
+    12.0,
+    12.6,
+    10.799999999999999,
+    25.2,
+    8.4,
+    26.4
+  ],
+  "wpm": 100,
+  "translations": {
+    "es": [
+      "Bienvenidos a Suiza, donde el r\u00edo Aare, que atraviesa Berna desde el siglo XIII, acuna una historia grabada en piedra.",
+      "Ahora, el R\u00f3dano sale del lago de Ginebra, fluyendo a trav\u00e9s de Ginebra, una ciudad donde el calvinismo ech\u00f3 ra\u00edces en 1536, dando forma a su paisaje cultural.",
+      "El Puente de la Capilla de Lucerna, construido en 1333, se extiende 204 metros sobre el Reuss, un testimonio de la ingenier\u00eda medieval.",
+      "Ahora, sobre Lauterbrunnen, contemplen un valle esculpido por glaciares que se retiraron hace 10.000 a\u00f1os, dejando atr\u00e1s acantilados que alcanzan casi 300 metros. Aqu\u00ed, se sumergen 72 cascadas, incluyendo las cataratas de Staubbach, que caen en picado casi 297 metros, un espect\u00e1culo natural que inspir\u00f3 a Goethe en 1779.",
+      "Aqu\u00ed, en Matterhorn, el deshielo glacial alimenta lagos que reflejan picos que se elevan a m\u00e1s de 4.478 metros.",
+      "Ahora, en Suiza, un tren atraviesa el viaducto, un testimonio de la destreza en ingenier\u00eda. El t\u00fanel ferroviario de San Gotardo, inaugurado en 2016, se extiende 57 kil\u00f3metros, excavando a trav\u00e9s de los Alpes. Mientras el tren desaparece en la monta\u00f1a, reflexionamos sobre una tierra donde la naturaleza y la innovaci\u00f3n convergen."
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "project_name": "switzerland",
+  "total_clips": 6,
+  "total_processing_time": 1.9114792346954346,
+  "stage_performance": [
+    {
+      "stage_name": "ingest",
+      "processing_time": 0.6191179752349854,
+      "memory_peak_mb": 175.203125,
+      "memory_delta_mb": 0.0,
+      "cpu_percent_avg": 0.1,
+      "items_processed": 6,
+      "provider_used": "gemini",
+      "success": true,
+      "error_message": null
+    },
+    {
+      "stage_name": "plan",
+      "processing_time": 0.572472095489502,
+      "memory_peak_mb": 175.21875,
+      "memory_delta_mb": 0.0,
+      "cpu_percent_avg": 0.060000000000000005,
+      "items_processed": 1,
+      "provider_used": "gemini",
+      "success": true,
+      "error_message": null
+    },
+    {
+      "stage_name": "tts",
+      "processing_time": 0.7198891639709473,
+      "memory_peak_mb": 175.234375,
+      "memory_delta_mb": 0.015625,
+      "cpu_percent_avg": 0.1,
+      "items_processed": 12,
+      "provider_used": "xtts",
+      "success": true,
+      "error_message": null
+    }
+  ],
+  "scaling_metrics": {
+    "seconds_per_clip": 0.3185798724492391,
+    "clips_per_minute": 188.335815250099,
+    "mb_per_clip": 0.0026041666666666665,
+    "ingest_seconds_per_item": 0.10318632920583089,
+    "plan_seconds_per_item": 0.572472095489502,
+    "tts_seconds_per_item": 0.059990763664245605
+  },
+  "provider_comparison": {
+    "gemini": {
+      "total_processing_time": 1.1915900707244873,
+      "average_memory_mb": 175.2109375,
+      "success_rate": 1.0,
+      "stages_used": 2,
+      "avg_time_per_stage": 0.5957950353622437
+    },
+    "xtts": {
+      "total_processing_time": 0.7198891639709473,
+      "average_memory_mb": 175.234375,
+      "success_rate": 1.0,
+      "stages_used": 1,
+      "avg_time_per_stage": 0.7198891639709473
+    }
+  },
+  "quality_speed_tradeoff": {
+    "quality_per_second": 0.4213208656436106,
+    "quality_score": 0.8053460858216668,
+    "processing_time": 1.9114792346954346,
+    "efficiency_ratio": 25.279251938616632
+  },
+  "system_info": {
+    "cpu_count": 16,
+    "cpu_count_logical": 16,
+    "memory_total_gb": 128.0,
+    "memory_available_gb": 83.281982421875,
+    "platform": "macOS-15.5-arm64-arm-64bit",
+    "python_version": "3.11.12",
+    "gpu_available": false,
+    "disk_total_gb": 1858.1917190551758,
+    "disk_free_gb": 264.49546813964844
+  },
+  "timestamp": 1753988840.296621
+}

@@ -1,0 +1,42 @@
+{
+  "project": "switzerland_doc_gemini_xtts_multi",
+  "style": "documentary",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-20T05:28:43.673805Z",
+  "ordered_clips": [
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev",
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev"
+  ],
+  "script": [
+    "Lauterbrunnen, a valley carved by glaciers, now cradles a storybook village. Seventy-two waterfalls plunge from near-vertical cliffs, feeding the valley's vibrant green. The most famous, Staubbach Falls, drops almost 300 meters, a natural spectacle that has drawn travelers for centuries.",
+    "Mirroring the sky, this alpine lake reflects the iconic Matterhorn. Its peak, at 4,478 meters, marks a border between Switzerland and Italy.",
+    "Winding through the Alps, this railway connects remote villages. Constructed over a century ago, the viaduct showcases remarkable engineering. Notice how the route minimizes disruption to the pristine landscape. Consider that these railways, vital for trade and tourism, operate year-round, even when snowfall exceeds several meters.",
+    "Cobblestone streets define Bern, a city encircled by the Aare River. For centuries, this medieval heart has served as Switzerland's capital.",
+    "Across the water, Lucerne glows as dusk settles. This picturesque bridge, rebuilt after a fire, has stood here for nearly 700 years.",
+    "Nestled on Lake Geneva's edge, the city shines. Home to many international organizations, Geneva has been a diplomatic hub since the 19th century. From this vantage, its enduring spirit is clear."
+  ],
+  "speech_sec": [
+    17.325,
+    9.425,
+    19.225,
+    9.05,
+    9.05,
+    13.2
+  ],
+  "wpm": 160,
+  "allow_overflow": true,
+  "translations": {
+    "es": [
+      "Lauterbrunnen, un valle esculpido por glaciares, ahora acuna un pueblo de cuento de hadas. Setenta y dos cascadas se precipitan desde acantilados casi verticales, alimentando el verde vibrante del valle. La m\u00e1s famosa, las cataratas de Staubbach, caen casi 300 metros, un espect\u00e1culo natural que ha atra\u00eddo a viajeros durante siglos.",
+      "Reflejando el cielo, este lago alpino refleja el ic\u00f3nico Matterhorn. Su pico, a 4.478 metros, marca una frontera entre Suiza e Italia.",
+      "Serpenteando a trav\u00e9s de los Alpes, este ferrocarril conecta pueblos remotos. Construido hace m\u00e1s de un siglo, el viaducto muestra una ingenier\u00eda notable. Observe c\u00f3mo la ruta minimiza la interrupci\u00f3n del paisaje pr\u00edstino. Considere que estos ferrocarriles, vitales para el comercio y el turismo, operan durante todo el a\u00f1o, incluso cuando las nevadas superan varios metros.",
+      "Las calles empedradas definen Berna, una ciudad rodeada por el r\u00edo Aare. Durante siglos, este coraz\u00f3n medieval ha servido como capital de Suiza.",
+      "Al otro lado del agua, Lucerna brilla al caer la noche. Este pintoresco puente, reconstruido despu\u00e9s de un incendio, ha estado aqu\u00ed durante casi 700 a\u00f1os.",
+      "Ubicada a orillas del lago de Ginebra, la ciudad brilla. Hogar de muchas organizaciones internacionales, Ginebra ha sido un centro diplom\u00e1tico desde el siglo XIX. Desde esta perspectiva, su esp\u00edritu perdurable es claro."
+    ]
+  }
+}

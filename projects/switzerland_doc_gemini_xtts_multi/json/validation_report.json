@@ -1,0 +1,36 @@
+{
+  "wer_scores": {
+    "en": 0.09753411740499257,
+    "es": 0.08959923698400324
+  },
+  "duration_accuracy": {
+    "en": 0.08681818181818202,
+    "es": 0.2872222222222223
+  },
+  "processing_times": {
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev_en": 1.4843978881835938,
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev_en": 0.9642951488494873,
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev_en": 1.320220708847046,
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev_en": 1.4420311450958252,
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev_en": 0.9560141563415527,
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev_en": 1.6910929679870605,
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev_es": 1.1096477508544922,
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev_es": 1.2553720474243164,
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev_es": 1.5103800296783447,
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev_es": 1.969151258468628,
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev_es": 1.111764907836914,
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev_es": 1.697195053100586
+  },
+  "memory_usage": {
+    "validation_time_sec": 16.512736797332764,
+    "total_clips": 6,
+    "total_audio_files": 12,
+    "avg_processing_time_per_clip": 0.0,
+    "memory_peak_mb": 334.828125,
+    "disk_usage_mb": 25.833126068115234
+  },
+  "overall_quality_score": 0.6906093865699121,
+  "detailed_errors": [],
+  "validation_timestamp": 1753986259.4855502,
+  "whisper_model": "base"
+}

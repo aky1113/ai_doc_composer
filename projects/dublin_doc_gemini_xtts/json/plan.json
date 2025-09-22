@@ -1,0 +1,32 @@
+{
+  "project": "dublin_doc_gemini_xtts",
+  "style": "documentary",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T09:55:12.151820Z",
+  "ordered_clips": [
+    "IMG_0031",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_9971",
+    "IMG_9963",
+    "IMG_9957"
+  ],
+  "script": [
+    "Dublin's historic streets hum with life, a city where centuries of stories echo in Hard Rock Cafe.",
+    "Cobblestone lanes weave through this vibrant capital, a place where modern commerce meets enduring heritage.  This island nation's capital has been a hub of culture for over a thousand years.",
+    "Red buses navigate avenues that echo with centuries of stories.  This city, a beacon of learning and literature, has welcomed explorers and artists for over a millennium.",
+    "Cobblestone lanes pulse with a lively spirit, drawing you into a district renowned for its vibrant pubs.  Here, the iconic Temple Bar, a landmark since the 19th century, stands as a testament to enduring Irish hospitality.  Its festive facade invites you to experience the heart of Dublin's renowned nightlife, The Temple Bar.",
+    "Christ Church Cathedral, a spiritual heart for over 800 years, stands sentinel over this lively city. Its ancient stones have witnessed centuries of Dublin's unfolding story.",
+    "This vibrant capital, a UNESCO City of Literature, thrives on a rich tapestry of history and culture.  Its streets, alive with the energy of over a million souls, echo with tales of rebellion and artistic brilliance.  Dublin's enduring spirit, forged through centuries of change, continues to captivate all who wander its storied avenues."
+  ],
+  "speech_sec": [
+    7.15,
+    12.425,
+    10.925,
+    21.075,
+    10.925,
+    21.45
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

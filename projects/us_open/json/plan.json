@@ -1,0 +1,28 @@
+{
+  "project": "us_open",
+  "style": "documentary",
+  "ordering_strategy": "llm",
+  "generated": "2025-08-03T18:30:56.574717Z",
+  "ordered_clips": [
+    "IMG_6991",
+    "IMG_6965",
+    "IMG_5680",
+    "IMG_5709",
+    "IMG_5668"
+  ],
+  "script": [
+    "Welcome to the US Open, where legends are made, and the air crackles with anticipation, as 23,771 fans fill the stands in Ashe Stadium at the US Open.",
+    "Here at the Chase Center, Wawrinka, ranked 176th, aims to repeat his stunning 2016 US Open victory.",
+    "Now, the serve: a crucial element in tennis, where elite players can launch the ball at speeds exceeding 200 kilometers per hour. This New York match showcases athleticism and strategy, echoing the Open's inaugural year in 1881. The crowd roars! in Tennis court.",
+    "Svitolina, a force since turning pro in 2010, serves with precision. Rogers attempts a return, but the call is out! Svitolina leads 3-0 in US Open.",
+    "Toronto's \"Cashmere\" Grandstand witnesses Kostyuk's dominance, echoing her junior title win at the Australian Open in 2017 at only 14 years old."
+  ],
+  "speech_sec": [
+    10.875,
+    6.375,
+    16.5,
+    10.125,
+    9.0
+  ],
+  "wpm": 160
+}

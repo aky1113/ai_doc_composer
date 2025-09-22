@@ -1,0 +1,31 @@
+{
+  "audio_sync_scores": {
+    "en": 0.6507484151791431,
+    "es": 0.44048279100218884
+  },
+  "narration_completeness_scores": {
+    "en": 0.9509191270068835,
+    "es": 0.8217999934848288
+  },
+  "file_integrity": {
+    "captions.json": true,
+    "plan.json": true,
+    "tts_meta.json": true,
+    "audio_files_exist": true,
+    "audio_files_valid": true,
+    "final_video": true
+  },
+  "performance_metrics": {
+    "total_project_size_mb": 40.24172782897949,
+    "clips_processed": 6,
+    "audio_files_generated": 12,
+    "current_memory_mb": 6029.96875,
+    "cpu_percent": 0.0,
+    "audio_size_mb": 8.819389343261719,
+    "mb_per_audio_file": 0.7349491119384766
+  },
+  "pipeline_completeness": 1.0,
+  "overall_score": 0.8295925490009566,
+  "detailed_issues": [],
+  "timestamp": 1758345595.712094
+}

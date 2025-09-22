@@ -1,0 +1,56 @@
+{
+  "project": "us_open",
+  "generated": "2025-08-03T18:30:51.401902Z",
+  "clips": [
+    {
+      "clip_id": "IMG_5668",
+      "filename": "IMG_5668.mp4",
+      "captions": [
+        "Marta Kostyuk is on a tennis court. She is wearing a white tennis outfit. The scoreboard shows that Kostyuk is winning 6-0 6-0. The tennis game is on the 'Cashmere' Grandstand court.",
+        "Toronto, Canada"
+      ],
+      "duration": 7.87,
+      "exif_timestamp": "2024-08-06T16:03:17+00:00"
+    },
+    {
+      "clip_id": "IMG_5680",
+      "filename": "IMG_5680.mp4",
+      "captions": [
+        "This clip shows a tennis match. A woman serves the ball and then returns it, winning the point and celebrating. The crowd cheers.",
+        "Tennis court"
+      ],
+      "duration": 14.5145,
+      "exif_timestamp": "2024-08-06T16:34:03+00:00"
+    },
+    {
+      "clip_id": "IMG_5709",
+      "filename": "IMG_5709.mp4",
+      "captions": [
+        "Elina Svitolina serves during a tennis match. She hits the ball and the ball is called out. The score is Svitolina 3 Rogers 0.",
+        "US Open"
+      ],
+      "duration": 11.097007,
+      "exif_timestamp": "2024-08-06T18:20:24+00:00"
+    },
+    {
+      "clip_id": "IMG_6965",
+      "filename": "IMG_6965.mp4",
+      "captions": [
+        "This clip captures a tennis match at the US Open. Stan Wawrinka is shown on the big screen, with his world ranking of 176 and previous US Open win in 2016 highlighted. The Chase Center is visible in the background, and the stands are full of spectators.",
+        "US Open, Chase Center"
+      ],
+      "duration": 9.65965,
+      "exif_timestamp": "2024-08-27T23:05:25+00:00"
+    },
+    {
+      "clip_id": "IMG_6991",
+      "filename": "IMG_6991.mp4",
+      "captions": [
+        "This clip shows the entrance of the Ashe Stadium at the US Open. A large screen displays tennis match information. People are sitting around a fountain with purple lights.",
+        "Ashe Stadium at the US Open"
+      ],
+      "duration": 8.591917,
+      "exif_timestamp": "2024-08-28T00:39:25+00:00"
+    }
+  ]
+}

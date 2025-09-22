@@ -1,0 +1,80 @@
+{
+  "project": "porto_doc_gemini_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_9342",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9342_en.wav",
+          "duration": 9.142
+        },
+        {
+          "id": "IMG_9347",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9347_en.wav",
+          "duration": 11.596
+        },
+        {
+          "id": "IMG_9348",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9348_en.wav",
+          "duration": 15.308666666666667
+        },
+        {
+          "id": "IMG_9509",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9509_en.wav",
+          "duration": 18.925333333333334
+        },
+        {
+          "id": "IMG_9481",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9481_en.wav",
+          "duration": 20.269333333333332
+        },
+        {
+          "id": "IMG_9449",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9449_en.wav",
+          "duration": 10.294666666666666
+        },
+        {
+          "id": "IMG_9445",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9445_en.wav",
+          "duration": 11.553333333333333
+        },
+        {
+          "id": "IMG_9539",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9539_en.wav",
+          "duration": 6.400666666666667
+        },
+        {
+          "id": "IMG_9542",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9542_en.wav",
+          "duration": 15.671333333333333
+        },
+        {
+          "id": "IMG_9394",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9394_en.wav",
+          "duration": 10.625333333333334
+        },
+        {
+          "id": "IMG_9455",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9455_en.wav",
+          "duration": 13.260666666666667
+        },
+        {
+          "id": "IMG_9545",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9545_en.wav",
+          "duration": 14.188666666666666
+        },
+        {
+          "id": "IMG_9471",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9471_en.wav",
+          "duration": 13.026
+        },
+        {
+          "id": "IMG_9608",
+          "wav": "porto_doc_gemini_xtts/output/audio/IMG_9608_en.wav",
+          "duration": 5.803333333333334
+        }
+      ]
+    }
+  ]
+}

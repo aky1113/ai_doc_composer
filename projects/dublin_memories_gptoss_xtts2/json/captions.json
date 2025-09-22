@@ -1,0 +1,66 @@
+{
+  "project": "dublin",
+  "generated": "2025-08-03T17:39:06.783594Z",
+  "clips": [
+    {
+      "clip_id": "IMG_0031",
+      "filename": "IMG_0031.mp4",
+      "captions": [
+        "The clip shows a cobblestone street in Dublin, Ireland. The Hard Rock Cafe Dublin is visible at the corner. People are walking around, and there are cars parked on the street. Decorations, lights, and signs add to the charm.",
+        "Hard Rock Cafe, Dublin, Ireland"
+      ],
+      "duration": 7.568005,
+      "exif_timestamp": "2025-05-06T20:29:14+00:00"
+    },
+    {
+      "clip_id": "IMG_9957",
+      "filename": "IMG_9957.mp4",
+      "captions": [
+        "The video shows Dublin streetscapes from a moving bus. There are brick buildings and businesses visible, including a hotel, school, and restaurant. The street is busy with people and other buses.",
+        "Dublin, Ireland"
+      ],
+      "duration": 27.243883,
+      "exif_timestamp": "2025-05-06T13:26:35+00:00"
+    },
+    {
+      "clip_id": "IMG_9959",
+      "filename": "IMG_9959.mp4",
+      "captions": [
+        "A view from a moving bus in Dublin, Ireland. The bus passes by pedestrians on a city street lined with shops and trees. Notable stores include H&M and Decathlon.",
+        "Dublin, Ireland"
+      ],
+      "duration": 15.532183,
+      "exif_timestamp": "2025-05-06T13:29:57+00:00"
+    },
+    {
+      "clip_id": "IMG_9961",
+      "filename": "IMG_9961.mp4",
+      "captions": [
+        "The clip is a street view in Dublin, Ireland. A double-decker bus is on the street. Pedestrians are on the sidewalk, walking past shops and buildings in the city.",
+        "Dublin, Ireland"
+      ],
+      "duration": 17.529002,
+      "exif_timestamp": "2025-05-06T13:33:15+00:00"
+    },
+    {
+      "clip_id": "IMG_9963",
+      "filename": "IMG_9963.mp4",
+      "captions": [
+        "The clip features a street scene in Dublin, Ireland. A yellow DUKW tour bus is driving by. In the background is the Christ Church Cathedral, a historic landmark.",
+        "Christ Church Cathedral, Dublin, Ireland"
+      ],
+      "duration": 11.028005,
+      "exif_timestamp": "2025-05-06T14:25:31+00:00"
+    },
+    {
+      "clip_id": "IMG_9971",
+      "filename": "IMG_9971.mp4",
+      "captions": [
+        "The clip shows the iconic Temple Bar in Dublin, Ireland. The red pub is decorated with festive greenery and flags bearing its name. Crowds of people mill around the area.",
+        "The Temple Bar, Dublin, Ireland"
+      ],
+      "duration": 23.265011,
+      "exif_timestamp": "2025-05-06T14:44:50+00:00"
+    }
+  ]
+}

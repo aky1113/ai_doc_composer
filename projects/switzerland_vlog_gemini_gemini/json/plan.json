@@ -1,0 +1,42 @@
+{
+  "project": "switzerland_doc_gemini_xtts",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-20T05:14:21.367336Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "OMG, Bern is unreal! I'm flying high above this turquoise river, and let me tell you, the old town is absolutely breathtaking!",
+    "Wow, check out this incredible sunset! I'm getting such amazing views. The Rhone is gorgeous from up here. I can see the city lights twinkling below; it's pure magic!",
+    "Seriously, guys, the Chapel Bridge is stunning! I'm totally in love with this view. The Reuss River reflects everything. St. Leodegar church looks incredible tonight!",
+    "Okay, so, after that amazing bridge, we hopped on a train! Suddenly, this valley opened up before us. Honestly, I've never seen anything so green! Waterfalls are everywhere; it's like a fairytale. Let me show you these tiny villages nestled in the mountains. I'm getting such amazing views, Lauterbrunnen.",
+    "Honestly, the lake's reflection is just unreal! I'm totally in love with this view.",
+    "Guys, I discovered this incredible train journey!  We found ourselves completely surrounded by these majestic peaks.  This UNESCO World Heritage site is breathtaking.  The final tunnel felt like entering another world.  Switzerland, you've stolen a piece of my heart."
+  ],
+  "speech_sec": [
+    9.425,
+    13.225,
+    11.75,
+    21.9,
+    6.8,
+    17.0
+  ],
+  "wpm": 160,
+  "allow_overflow": true,
+  "translations": {
+    "es": [
+      "\u00a1Dios m\u00edo, Berna es incre\u00edble! Estoy volando sobre este r\u00edo turquesa, y d\u00e9jenme decirles, \u00a1el casco antiguo es absolutamente impresionante!",
+      "\u00a1Guau, miren esta incre\u00edble puesta de sol! Estoy teniendo unas vistas tan asombrosas. El R\u00f3dano es precioso desde aqu\u00ed arriba. Puedo ver las luces de la ciudad parpadeando abajo; \u00a1es pura magia!",
+      "En serio, chicos, \u00a1el Puente de la Capilla es impresionante! Estoy totalmente enamorado de esta vista. El r\u00edo Reuss lo refleja todo. \u00a1La iglesia de San Leodegar se ve incre\u00edble esta noche!",
+      "Vale, entonces, despu\u00e9s de ese incre\u00edble puente, \u00a1subimos a un tren! De repente, este valle se abri\u00f3 ante nosotros. Honestamente, \u00a1nunca he visto nada tan verde! Las cascadas est\u00e1n por todas partes; es como un cuento de hadas. D\u00e9jenme mostrarles estos peque\u00f1os pueblos enclavados en las monta\u00f1as. Estoy teniendo unas vistas tan asombrosas, Lauterbrunnen.",
+      "Honestamente, \u00a1el reflejo del lago es simplemente irreal! Estoy totalmente enamorado de esta vista.",
+      "Chicos, \u00a1descubr\u00ed este incre\u00edble viaje en tren! Nos encontramos completamente rodeados de estos majestuosos picos. Este sitio del Patrimonio Mundial de la UNESCO es impresionante. El t\u00fanel final se sinti\u00f3 como entrar en otro mundo. Suiza, te has robado un pedazo de mi coraz\u00f3n."
+    ]
+  }
+}

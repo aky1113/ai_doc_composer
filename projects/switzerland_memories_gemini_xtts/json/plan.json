@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_memories_gemini_xtts",
+  "style": "personal_memories",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T10:01:39.333418Z",
+  "ordered_clips": [
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "You know what I'll never forget about Lauterbrunnen?  The sheer scale of those mountains surrounding the valley was absolutely breathtaking, and that massive waterfall tumbling down the cliffs felt like something out of a fairytale.",
+    "That crystal-clear water looked so inviting, I almost wanted to jump right in for a refreshing swim.",
+    "The gentle lapping of the river against the old wooden planks created such a peaceful soundtrack to the evening.",
+    "The way the sunlight caught the rooftops, making them gleam like scattered jewels, was truly a sight I won't soon forget, Bern.",
+    "Seeing the city lights twinkle below as we flew over was absolutely breathtaking, a truly magical sight.",
+    "That train journey through the snowy mountains was just incredible, like something out of a fairytale.  The bright red engine looked so striking against all that white, and it disappeared into the tunnel so dramatically.  Switzerland really delivered on the scenic beauty."
+  ],
+  "speech_sec": [
+    14.3,
+    7.15,
+    7.525,
+    9.025,
+    6.775,
+    16.95
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

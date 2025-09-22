@@ -1,0 +1,35 @@
+{
+  "project": "us_open",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_6991",
+          "wav": "us_open/output/audio/IMG_6991_en.wav",
+          "duration": 13.184666666666667
+        },
+        {
+          "id": "IMG_6965",
+          "wav": "us_open/output/audio/IMG_6965_en.wav",
+          "duration": 7.5633333333333335
+        },
+        {
+          "id": "IMG_5680",
+          "wav": "us_open/output/audio/IMG_5680_en.wav",
+          "duration": 19.255333333333333
+        },
+        {
+          "id": "IMG_5709",
+          "wav": "us_open/output/audio/IMG_5709_en.wav",
+          "duration": 11.543333333333333
+        },
+        {
+          "id": "IMG_5668",
+          "wav": "us_open/output/audio/IMG_5668_en.wav",
+          "duration": 10.678
+        }
+      ]
+    }
+  ]
+}

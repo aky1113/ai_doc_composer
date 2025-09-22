@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_vlog_gemini_xtts2",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-18T17:38:12.836810Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "Oh my gosh, Bern is absolutely breathtaking! Look at this view, you guys! I'm so excited to explore this charming city with you!",
+    "Seriously, the way the lights twinkle over the water is just magical!  This whole vibe is giving me all the feels.  Let me zoom in for you!",
+    "This evening view is pure magic!  The lights dancing on the water are incredible.",
+    "And just when I thought it couldn't get any more beautiful, we stumbled upon THIS!  Seriously, my jaw is on the floor.  This waterfall is absolutely roaring, and the sheer scale of these mountains?  Mind-blowing!  I can't believe we're actually here, experiencing this.  It's pure, unadulterated nature at its finest in Lauterbrunnen.",
+    "Look at this crystal-clear water, it's so inviting!  The reflections are just unreal, like a perfect mirror!",
+    "This whole adventure has been an absolute dream!  Seeing this incredible train disappear into the mountains, it just feels like the perfect ending to an unforgettable trip.  Switzerland, you've stolen a piece of my heart!"
+  ],
+  "speech_sec": [
+    10.2,
+    11.325,
+    6.05,
+    23.775,
+    7.925,
+    14.7
+  ],
+  "wpm": 160,
+  "allow_overflow": true
+}

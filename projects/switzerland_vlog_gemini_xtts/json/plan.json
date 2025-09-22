@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_vlog_gemini_xtts",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T09:37:46.279265Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev"
+  ],
+  "script": [
+    "Oh my gosh, Bern is absolutely breathtaking! You guys HAVE to see this view!",
+    "Seriously, this city at twilight is just magical!  The river winding through the illuminated buildings is so picturesque.  Look at those lights reflecting on the water!  It's truly a sight to behold.",
+    "This ancient wooden walkway is just breathtaking!  The water below mirrors the glowing cityscape perfectly.  I'm completely captivated by this scene.",
+    "Wow, this valley is absolutely incredible!  A massive waterfall plunges down the sheer rock face.  Tiny homes are scattered across the vibrant green landscape.  It feels like stepping into a fairytale!  I can't believe this place is real, Lauterbrunnen.",
+    "This alpine gem is unbelievably serene!  Crystal-clear water mirrors the towering peaks.  You can practically drink straight from this lake!  What a breathtaking panorama!",
+    "My jaw is still on the floor from that view!  That little red train, chugging through the snow, was just pure magic.  Seeing it disappear into that tunnel felt like the perfect end to an epic adventure.  This whole journey through Switzerland has been unforgettable."
+  ],
+  "speech_sec": [
+    6.05,
+    13.975,
+    9.45,
+    17.0,
+    10.975,
+    18.475
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

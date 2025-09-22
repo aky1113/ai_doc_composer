@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_vlog_gptoss_xtts",
+  "style": "travel_vlog",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T10:59:01.220768Z",
+  "ordered_clips": [
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev"
+  ],
+  "script": [
+    "Guys, I\u2019m standing on a bridge in Bern, and the turquoise river and green hills are absolutely breathtaking today!",
+    "Just minutes later, I hopped onto a bright red train that rattled up the snowy viaduct.",
+    "Flying over the valley, I marveled at the emerald carpet below. A silver waterfall cascades down a jagged cliff, roaring like a drum. Tiny villages dot the landscape, their roofs catching the sunrise glow. I felt mist kiss my cheeks, and my heart raced with wonder. This scene will stay with me.",
+    "Rising above, I saw water reflect Matterhorn.",
+    "I stepped onto the old wooden planks, heart racing.",
+    "The view from above unfurled like a postcard."
+  ],
+  "speech_sec": [
+    7.9,
+    6.4,
+    21.5,
+    3.025,
+    3.775,
+    3.4
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

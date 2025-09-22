@@ -1,0 +1,35 @@
+{
+  "project": "us_open_doc_gptoss_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_6991",
+          "wav": "us_open_doc_gptoss_xtts/output/audio/IMG_6991_en.wav",
+          "duration": 10.816666666666666
+        },
+        {
+          "id": "IMG_6965",
+          "wav": "us_open_doc_gptoss_xtts/output/audio/IMG_6965_en.wav",
+          "duration": 10.720666666666666
+        },
+        {
+          "id": "IMG_5668",
+          "wav": "us_open_doc_gptoss_xtts/output/audio/IMG_5668_en.wav",
+          "duration": 10.902
+        },
+        {
+          "id": "IMG_5709",
+          "wav": "us_open_doc_gptoss_xtts/output/audio/IMG_5709_en.wav",
+          "duration": 10.859333333333334
+        },
+        {
+          "id": "IMG_5680",
+          "wav": "us_open_doc_gptoss_xtts/output/audio/IMG_5680_en.wav",
+          "duration": 4.960666666666667
+        }
+      ]
+    }
+  ]
+}

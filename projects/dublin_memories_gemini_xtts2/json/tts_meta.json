@@ -1,0 +1,40 @@
+{
+  "project": "dublin_memories_gemini_xtts2",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "IMG_9957",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_9957_en.wav",
+          "duration": 20.077333333333332
+        },
+        {
+          "id": "IMG_9959",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_9959_en.wav",
+          "duration": 7.9366666666666665
+        },
+        {
+          "id": "IMG_9961",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_9961_en.wav",
+          "duration": 10.529333333333334
+        },
+        {
+          "id": "IMG_9963",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_9963_en.wav",
+          "duration": 10.582666666666666
+        },
+        {
+          "id": "IMG_9971",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_9971_en.wav",
+          "duration": 18.647333333333332
+        },
+        {
+          "id": "IMG_0031",
+          "wav": "dublin_memories_gemini_xtts2/output/audio/IMG_0031_en.wav",
+          "duration": 5.238
+        }
+      ]
+    }
+  ]
+}

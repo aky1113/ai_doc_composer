@@ -1,0 +1,32 @@
+{
+  "project": "dublin_memories_gptoss_xtts",
+  "style": "personal_memories",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T10:51:57.066802Z",
+  "ordered_clips": [
+    "IMG_0031",
+    "IMG_9957",
+    "IMG_9959",
+    "IMG_9961",
+    "IMG_9963",
+    "IMG_9971"
+  ],
+  "script": [
+    "I still remember strolling past the Hard Rock Cafe in Dublin, feeling the cobblestones echo with laughter.",
+    "The next stop was a narrow lane where the old brick facades whispered stories of generations. I could almost hear the chatter of students from the nearby school, their laughter mixing with the clatter of buses. A family of tourists paused to take photos, their smiles bright against the backdrop of a historic hotel. We shared a quick coffee, city pulse alive.",
+    "After that, the bus rolled into a bustling street where shoppers shuffled past H&M and Decathlon, while the trees swayed gently. Passersby waved, and the hum of traffic blended with the distant laughter of children.",
+    "The bus rattled past a street caf\u00e9 where locals chatted over coffee. I caught a glimpse of a street musician playing a jaunty tune, and the city felt alive. It was an unforgettable moment that lingered long after the bus had gone, Dublin.",
+    "The yellow DUKW glided by, its bright color contrasting with the cathedral's stone, and the crowd's laughter echoed through the narrow lanes.",
+    "Soon after, the scene shifted to the lively Temple Bar. The red pub glowed, its festive wreaths catching every eye. People flowed in, laughing, sharing stories over pints of Guinness. I felt the warmth of the crowd, a comforting hum. Even now, I can still picture those bright, joyous moments."
+  ],
+  "speech_sec": [
+    6.775,
+    24.85,
+    14.3,
+    17.325,
+    9.4,
+    20.75
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

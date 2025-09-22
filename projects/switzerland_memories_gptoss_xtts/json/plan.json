@@ -1,0 +1,32 @@
+{
+  "project": "switzerland_memories_gptoss_xtts",
+  "style": "personal_memories",
+  "ordering_strategy": "llm",
+  "generated": "2025-09-19T11:02:39.354562Z",
+  "ordered_clips": [
+    "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev",
+    "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+    "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+    "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+    "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+    "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev"
+  ],
+  "script": [
+    "I remember the time I saw that red train in Switzerland.",
+    "The next stop was a charming old town, where a turquoise river curled around cobblestones and a historic bridge arched gracefully, making the whole scene feel like a postcard.",
+    "Later that evening, the city lights reflected off the river, turning the sky into a warm amber glow. I felt as if I were strolling through a living painting, with every building softly illuminated like a quiet lullaby.",
+    "I paused beside the bridge, letting the hum of bells fill the air, and realized that even in the hush, the city whispered stories of centuries past, Lucerne.",
+    "I followed a winding trail toward the valley.",
+    "I paused beside the lake, letting the crystal water mirror the Matterhorn, and felt a quiet joy that still lingers in my heart."
+  ],
+  "speech_sec": [
+    4.525,
+    11.275,
+    15.05,
+    10.9,
+    3.4,
+    9.025
+  ],
+  "wpm": 160,
+  "allow_overflow": false
+}

@@ -1,0 +1,40 @@
+{
+  "project": "switzerland_memories_gptoss_xtts",
+  "tracks": [
+    {
+      "lang": "en",
+      "clips": [
+        {
+          "id": "train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/train-ride-through-mountains-landwasser-viaduct-an-2024-09-05-18-31-48-utc_prev_en.wav",
+          "duration": 3.574
+        },
+        {
+          "id": "aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/aerial-footage-over-the-city-of-bern-the-capital-c-2023-11-27-04-57-16-utc_prev_en.wav",
+          "duration": 10.582
+        },
+        {
+          "id": "flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/flight-over-geneva-switzerland-2023-11-27-05-30-52-utc_prev_en.wav",
+          "duration": 15.084
+        },
+        {
+          "id": "old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/old-town-architecture-of-lucerne-switzerland-citys-2024-10-28-20-27-02-utc_prev_en.wav",
+          "duration": 11.094
+        },
+        {
+          "id": "aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/aerial-view-of-lauterbrunnen-cityscape-waterfall-a-2023-11-27-05-24-45-utc_prev_en.wav",
+          "duration": 2.784666666666667
+        },
+        {
+          "id": "matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev",
+          "wav": "switzerland_memories_gptoss_xtts/output/audio/matterhorn-with-grindjisee-lake-in-zermatt-switze-2023-11-27-05-33-52-utc_prev_en.wav",
+          "duration": 7.243333333333333
+        }
+      ]
+    }
+  ]
+}
